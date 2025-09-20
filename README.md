@@ -14,7 +14,11 @@ Click a button to get a new motivational or inspirational quote instantly!
 
 ## 📂 Project Structure  
 random-quote-generator/
+
 │── index.html # Main HTML file
+
 │── style.css # Styling
+
 │── script.js # JavaScript logic
+
 │── README.md # Project info
